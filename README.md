@@ -1,2 +1,5 @@
 # python-project
-This is a machine learning project using opencv library 
+
+I am going to demonstrate a machine learning project of gesture movement 
+detection using opencv library 
+
